@@ -42,6 +42,7 @@ items:
  - hypertrons/hypertrons-crx
  - NirmalScaria/le-git-graph
  - slmkhanahmed/Git-Galaxy-Finder
+ - cradd/repo-swap-product
 display_name: GitHub Browser Extensions
 created_by: leereilly
 ---
